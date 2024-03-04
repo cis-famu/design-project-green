@@ -28,7 +28,7 @@ In this milestone, we are formalizing our project idea by creating our project c
 3. [Budget, Score, & Time Estimates](#budget-scope--time-estimates)
 4. [Team Contract](#team-contract)
 5. [References](#references)
-6. [Team Meeting](#Team Meeting)
+6. [Team Meeting]_(#Team Meeting)
 
 
 ## Team Meeting
