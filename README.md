@@ -550,6 +550,28 @@ This format outlines the flow of activities from the pet owner's perspective in 
 
 ## Research on other systems
 
+Animal Drug Adverse Events (ADAE) API:
+
+User Interface:
+
+Dashboard: The FDA set up a dashboard that gives a quick look at recent animal drug issues and safety alerts. It's like the homepage for all the important updates. 
+Search and Reporting: Users, whether vets or pet owners, can easily explore reports about animal drug problems and report incidents through a straightforward search and reporting system.
+User Roles:
+
+Veterinarians and Pet Owners: Vets get a bit more access to detailed reports and tools, while pet owners have a simpler interface focused on what they need.
+Integration with Veterinary Drug Database API:
+
+Data Synchronization: The system keeps information up-to-date by syncing regularly with the Animal Drug Adverse Events API. This ensures users always get the latest info. 
+Error Handling: In case the API changes, the system is ready to handle any alterations to avoid data issues.
+Responsible Reporting System:
+
+Detailed Forms: When users report an issue, there's a user-friendly form that makes it easy to share all the necessary details about the drug problem. 
+Documentation Upload: Users can attach documents like vet checkups or test results for a more comprehensive report.
+Educational Resources:
+
+Information Section: The system has a dedicated section offering educational resources. Users can learn about the importance of reporting, understanding drug labels, and recognizing side effects. 
+Link to FDA Guidelines: To provide users with more detailed information, there are direct links to FDA guidelines ensuring responsible use of the API data.
+
 ## API Descriptions
 1. **Veterinary Drug Database API** : Integrating with a comprehnesive database of veterinary drugs can provide accurate information about differnet medications, their uses, dosages, side effects, and more.
 2. **E-commerce Platform APIs**: If we sell our products online, integrating with popular e-commerce platforms such as Shopify, WooCommerce, or Magento can streamline inventory management, order processing, and payment transactions.
