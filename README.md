@@ -578,6 +578,22 @@ Link to FDA Guidelines: To provide users with more detailed information, there a
 3. **Payment Gateway APIs**: Integrating with payment gateway APIs such as PayPal, Stripe, or Square can facilitate secure online transactions for purchasing pet medications and other products.
 4. **Shipping and Logistics APIs**:  Integrating with shipping and logistics APIs like UPS, FedEx, or USPS can automate shipping calculations, generate shipping labels, and provide real-time tracking information for orders.
 
-‌
+‌## Milestone 3
+
+## DFD 
+
+
+
+## Request for Quote 
+
+
+
+## Style Guide 
+
+## Marketing Material 
+
+## Wireframe 
+
+
 
 
