@@ -585,6 +585,7 @@ Link to FDA Guidelines: To provide users with more detailed information, there a
 
 
 ## Request for Quote 
+[RFQ Sample.pdf](https://github.com/cis-famu/design-project-green/files/14746254/RFQ.Sample.pdf)
 
 
 
