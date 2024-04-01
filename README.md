@@ -592,6 +592,8 @@ Link to FDA Guidelines: To provide users with more detailed information, there a
 ## Style Guide 
 
 ## Marketing Material 
+[Brochures - Bifold (1).pdf](https://github.com/cis-famu/design-project-green/files/14819070/Brochures.-.Bifold.1.pdf)
+
 
 ## Wireframe 
 ![Alert-AllergyGif](https://github.com/cis-famu/design-project-green/assets/103546272/93eab15d-bc3b-4d2b-a3a9-3e8cd1b7df4d)
