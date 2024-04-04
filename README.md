@@ -592,6 +592,8 @@ Link to FDA Guidelines: To provide users with more detailed information, there a
 
 
 ## Style Guide 
+[Pet-Med_Mobile_Application_Style_Guide_Presentation_With_Images (2).pptx](https://github.com/cis-famu/design-project-green/files/14875378/Pet-Med_Mobile_Application_Style_Guide_Presentation_With_Images.2.pptx)
+
 
 ## Marketing Material 
 [Brochures - Bifold (1).pdf](https://github.com/cis-famu/design-project-green/files/14819070/Brochures.-.Bifold.1.pdf)
