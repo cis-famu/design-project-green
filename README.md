@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/xLFwbfXt)
+[PetCollectionCRD .txt](https://github.com/cis-famu/design-project-green/files/15139495/PetCollectionCRD.txt)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/xLFwbfXt)
 # PET-MED
 
 **Table of Contents**
@@ -611,6 +611,44 @@ Link to FDA Guidelines: To provide users with more detailed information, there a
 [Lessons Learned.docx](https://github.com/cis-famu/design-project-green/files/15030633/Lessons.Learned.docx)
 
 ## Collection Relationship Diagram
+
+[Uploading PetCollectionCRDPet Collection: 
+{
+  "pet_id": "1",
+  "name": "Fluffy",
+  "species": "Dog",
+  "age": 5,
+  "breed": "Golden Retriever",
+  "medications": [
+    ObjectId("pet_med_id_1"),
+    ObjectId("pet_med_id_2")
+  ]
+}
+
+Pet Medication Collection: 
+{
+  "_id": ObjectId("pet_med_id_1"),
+  "medication_name": "Heartgard",
+  "dosage": "1 tablet",
+  "frequency": "Once a month",
+  "start_date": "2023-01-15",
+  "end_date": "2024-01-15"
+}
+{
+  "_id": ObjectId("pet_med_id_2"),
+  "medication_name": "Advantix",
+  "dosage": "1 pipette",
+  "frequency": "Once a month",
+  "start_date": "2023-02-15",
+  "end_date": "2023-11-15"
+} .txt…]()
+
+## Data Dictionary 
+
+[Data Dictionary.pdf](https://github.com/cis-famu/design-project-green/files/15139552/Data.Dictionary.pdf)
+
+## Youtube Link 
+https://youtu.be/1D2pchNR1AU
 
 
 
