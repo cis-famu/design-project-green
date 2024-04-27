@@ -612,7 +612,6 @@ Link to FDA Guidelines: To provide users with more detailed information, there a
 
 ## Collection Relationship Diagram
 
-[Uploading PetCollectionCRDPet Collection: 
 {
   "pet_id": "1",
   "name": "Fluffy",
@@ -622,7 +621,7 @@ Link to FDA Guidelines: To provide users with more detailed information, there a
   "medications": [
     ObjectId("pet_med_id_1"),
     ObjectId("pet_med_id_2")
-  ]
+  
 }
 
 Pet Medication Collection: 
@@ -641,7 +640,7 @@ Pet Medication Collection:
   "frequency": "Once a month",
   "start_date": "2023-02-15",
   "end_date": "2023-11-15"
-} .txt…]()
+} 
 
 ## Data Dictionary 
 
