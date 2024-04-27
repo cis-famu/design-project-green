@@ -642,6 +642,9 @@ Pet Medication Collection:
   "end_date": "2023-11-15"
 } 
 
+## Poster 
+[CIS Poster Template.pptx](https://github.com/cis-famu/design-project-green/files/15139562/CIS.Poster.Template.pptx)
+
 ## Data Dictionary 
 
 [Data Dictionary.pdf](https://github.com/cis-famu/design-project-green/files/15139552/Data.Dictionary.pdf)
