@@ -608,7 +608,8 @@ Link to FDA Guidelines: To provide users with more detailed information, there a
 [Risk register.xlsx](https://github.com/cis-famu/design-project-green/files/15028548/Risk.register.xlsx)
 
 ## Lessons-Learned Report
-[Lessons Learned.docx](https://github.com/cis-famu/design-project-green/files/15030633/Lessons.Learned.docx)
+[Lessons Learned.docx](https://github.com/cis-famu/design-project-green/files/15144980/Lessons.Learned.docx)
+
 
 ## Collection Relationship Diagram
 
